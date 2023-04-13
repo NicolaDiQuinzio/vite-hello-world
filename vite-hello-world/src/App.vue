@@ -8,7 +8,6 @@ import Apptitle from './components/apptitle.vue';
 </template>
 <script>
 import Apptitle from './components/apptitle.vue';
-import apptitle from './components/apptitle.vue';
 export default{
     name: "App",
     components: apptitle,
